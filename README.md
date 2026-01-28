@@ -1,5 +1,6 @@
-# CGUT-V3
+# CGUT-V3 https://doi.org/10.5281/zenodo.16580305
 Analytical derivation of physical constants using Riemann Zeta sequences (V3 framework)
+
 Is the universe fine-tuned, or are its constants the inevitable eigenvalues of a deeper geometric structure?
 
 This paper presents the Compact Grand Unified Theory (CGUT), a framework that derives the Standard Model and Cosmological constants from first principles, without introducing any free parameters.
